@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi I'm [First Name] | AI Developer
+
+I build LLM-powered apps and RAG systems using Python.
+
+Currently learning by building. Everything here is real work in progress.
+
+Open to collaborations and interesting problems.
 
 <!--
 **The-Najam/The-Najam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
