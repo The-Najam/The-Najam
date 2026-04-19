@@ -1,4 +1,4 @@
-# Hi I'm [First Name] | AI Developer
+# Hi I'm Najam | AI Developer
 
 I build LLM-powered apps and RAG systems using Python.
 
