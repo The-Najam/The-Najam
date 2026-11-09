@@ -27,12 +27,11 @@ Prospect research often involves manually collecting information from multiple w
 - Designed multi-step workflows using LangGraph.
 - Integrated Groq and Google Gemini APIs for LLM-powered tasks.
 - Implemented website extraction using Crawl4AI, Playwright, and BeautifulSoup.
-- Built backend APIs using FastAPI and database operations using SQLAlchemy.
-- Integrated Redis for caching and background-task support.
+- Built backend APIs using FastAPI and database operations using Alembic.
 - Added LangSmith tracing to inspect and monitor AI workflows.
 - Containerized the application using Docker Compose.
 
-**Built with:** Python · FastAPI · LangGraph · Groq · Gemini · PostgreSQL · Redis · Docker
+**Built with:** Python · FastAPI · LangGraph · Groq · Gemini · PostgreSQL  · Docker
 
 🔗 [Source Code](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_DEMO_URL)
 
