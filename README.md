@@ -6,43 +6,35 @@ I build Python applications powered by Large Language Models, with a focus on RA
 
 My main project, **Prospect AI**, combines web data extraction, LLM-powered research, and workflow orchestration to automate prospect research and qualification. I enjoy turning AI concepts into working applications and understanding the engineering behind them.
 
----
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### Prospect AI
+### 1. Prospect AI — AI-Powered Prospect Research
 
-**AI-powered prospect research and qualification.**
+An AI-powered application designed to automate company research and prospect intelligence using web extraction, LLMs, and multi-step workflows.
 
-Prospect research often involves manually collecting information from multiple websites and evaluating potential customers. Prospect AI automates key parts of this process through web extraction and multi-step AI workflows.
+**Tech Stack:** Python, FastAPI, LangGraph, PostgreSQL, Docker, LangSmith
 
-**What it does:**
-- Extracts relevant information from websites using automated crawling.
-- Uses LLMs to analyze collected information and support prospect research.
-- Orchestrates research, strategy, and outreach generation through LangGraph workflows.
-- Structures and stores application data using PostgreSQL.
-- Provides a backend API for application functionality.
+[🔗 View Repository](https://github.com/The-Najam/Prospect-AI)
 
-**Engineering work:**
-- Designed multi-step workflows using LangGraph.
-- Integrated Groq and Google Gemini APIs for LLM-powered tasks.
-- Implemented website extraction using Crawl4AI, Playwright, and BeautifulSoup.
-- Built backend APIs using FastAPI and database operations using Alembic.
-- Added LangSmith tracing to inspect and monitor AI workflows.
-- Containerized the application using Docker Compose.
+### 2. AI Dental Assistant — RAG-Powered Assistant
 
-**Built with:** Python · FastAPI · LangGraph · Groq · Gemini · PostgreSQL  · Docker
+A retrieval-augmented AI assistant designed to answer domain-specific questions using document ingestion, vector search, and LLM-generated responses.
 
-🔗 [Source Code](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_DEMO_URL)
+**Tech Stack:** Python, RAG, Qdrant, Gemini, Embeddings
 
----
+[🔗 View Repository](https://github.com/The-Najam/AI-Dental-Assistant)
+
+
+
+
 
 ## 🛠️ Technologies & Tools
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **LLM Development**
 
@@ -61,7 +53,7 @@ Prospect research often involves manually collecting information from multiple w
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![Psycopg](https://img.shields.io/badge/Psycopg-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **Development Tools**
 
@@ -69,8 +61,9 @@ Prospect research often involves manually collecting information from multiple w
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
+![Azure Virtual Machines](https://img.shields.io/badge/Azure%20VM-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
----
+
 
 ## 📚 Currently Exploring
 
@@ -80,7 +73,7 @@ Prospect research often involves manually collecting information from multiple w
 - AI agents and multi-step workflow orchestration.
 - Backend architecture and deployment practices.
 
----
+
 
 ## 🎯 Opportunities
 
@@ -92,9 +85,13 @@ Interested in:
 - AI-focused startups and engineering teams.
 - Open-source collaboration.
 
----
 
 ## 📫 Connect
 
-- **GitHub:** [@The-Najam](https://github.com/The-Najam)
-- **LinkedIn:** [the-najam](https://www.linkedin.com/in/najam-ul-hasan-392670392/)
+<p align="left">
+  <a href="https://github.com/The-Najam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/najam-ul-hasan-392670392/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
